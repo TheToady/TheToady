@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/TheToady"><img src="https://api.daily.dev/devcards/ca8c66b641234ec8afcddc30d364b3e2.png?r=jo0" width="400" alt="Toady's Dev Card"/></a>
+<a href="https://app.daily.dev/TheToady"><img src="https://api.daily.dev/devcards/ca8c66b641234ec8afcddc30d364b3e2.png?r=8mk" width="400" alt="Toady's Dev Card"/></a>
 
 <!--
 **TheToady/TheToady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
